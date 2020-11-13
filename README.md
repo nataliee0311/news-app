@@ -19,6 +19,8 @@ $ git checkout [name_of_your_new_branch]
 Add changes from your branch to master branch: 
 
 $ git add .
+
 $ git commit -m "Commit message here"
+
 $ git push origin [name_of_your_new_branch]
 

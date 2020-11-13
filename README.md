@@ -16,7 +16,9 @@ Switch to a new branch:
 $ git checkout [name_of_your_new_branch]
 
 
-When pushing changes from your branch to master branch: 
+Add changes from your branch to master branch: 
 
+$ git add .
+$ git commit -m "Commit message here"
 $ git push origin [name_of_your_new_branch]
 
